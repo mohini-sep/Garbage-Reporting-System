@@ -1,8 +1,22 @@
-# React + Vite
+# 🚛 Garbage Reporting System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application that empowers citizens to report and track garbage collection needs in their communities. Built with React, Vite, and Supabase.
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Easy Location Reporting**: Mark and report garbage locations with precise GPS coordinates
+- **Real-time Status Tracking**: Monitor the progress of cleanup requests
+- **Image Upload**: Attach photos to reports for better documentation
+- **User Authentication**: Secure login system for report management
+
+## 🛠️ Technologies Used
+
+- React.js
+- Vite
+- Supabase (Backend & Authentication)
+- Tailwind CSS
+- React Router
+
+## 🚀 Live Demo
+
+Experience the application live at: [Garbage Reporting System](https://garbage-reporting-system.vercel.app/)
