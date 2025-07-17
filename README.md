@@ -1,4 +1,7 @@
-# 🚛 Garbage Reporting System
+# 🚛 Trash Tracker
+
+<img width="1801" height="767" alt="image" src="https://github.com/user-attachments/assets/a05ac0e1-d2ec-4c29-943b-124bd1a3e87c" />
+
 
 A modern web application that empowers citizens to report and track garbage collection needs in their communities. Built with React, Vite, and Supabase.
 
